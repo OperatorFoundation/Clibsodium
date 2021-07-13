@@ -1,5 +1,0 @@
-module libsodium [system] {
-  header "/usr/local/include/sodium.h"
-  link "sodium"
-  export *
-}
